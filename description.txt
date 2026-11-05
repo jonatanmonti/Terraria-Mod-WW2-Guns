@@ -1,0 +1,8 @@
+WW2 Guns adds 42 firearms from World War II: 6 for each major nation.
+[c/FFD700:Axis] - Germany, Italy, Japan
+[c/87CEFA:Allies] - United States, United Kingdom, Soviet Union, France
+
+Pistols, bolt-action rifles, semi-automatics, submachine guns, machine guns, a trench shotgun, a sniper rifle and an anti-tank rifle.
+All guns use bullets. Craft them at an Anvil (or Mythril Anvil in Hardmode), buy sidearms from the Arms Dealer, or find rare drops in the Dungeon.
+
+Agrega 42 armas de la Segunda Guerra Mundial (6 por país). Incluye traducción al español.

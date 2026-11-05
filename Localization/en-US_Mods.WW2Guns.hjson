@@ -1,0 +1,182 @@
+Mods: {
+	WW2Guns: {
+		Items: {
+			LugerP08: {
+				DisplayName: "Luger P08"
+				Tooltip: "Germany - Pistol\nUses bullets"
+			}
+			MP40: {
+				DisplayName: "MP 40"
+				Tooltip: "Germany - Submachine gun\nUses bullets"
+			}
+			Kar98k: {
+				DisplayName: "Karabiner 98k"
+				Tooltip: "Germany - Bolt-action rifle\nUses bullets"
+			}
+			Gewehr43: {
+				DisplayName: "Gewehr 43"
+				Tooltip: "Germany - Semi-automatic rifle\nUses bullets"
+			}
+			StG44: {
+				DisplayName: "StG 44"
+				Tooltip: "Germany - Assault rifle\nUses bullets"
+			}
+			MG42: {
+				DisplayName: "MG 42"
+				Tooltip: "Germany - Machine gun\n50% chance not to consume ammo\nUses bullets"
+			}
+			BerettaM1934: {
+				DisplayName: "Beretta M1934"
+				Tooltip: "Italy - Pistol\nUses bullets"
+			}
+			CarcanoM9138: {
+				DisplayName: "Carcano M91/38"
+				Tooltip: "Italy - Bolt-action rifle\nUses bullets"
+			}
+			MAB38: {
+				DisplayName: "Beretta MAB 38"
+				Tooltip: "Italy - Submachine gun\nUses bullets"
+			}
+			FNAB43: {
+				DisplayName: "FNAB-43"
+				Tooltip: "Italy - Submachine gun\nUses bullets"
+			}
+			Breda30: {
+				DisplayName: "Breda 30"
+				Tooltip: "Italy - Light machine gun\n25% chance not to consume ammo\nUses bullets"
+			}
+			BredaM37: {
+				DisplayName: "Breda M37"
+				Tooltip: "Italy - Machine gun\n33% chance not to consume ammo\nUses bullets"
+			}
+			NambuType14: {
+				DisplayName: "Nambu Type 14"
+				Tooltip: "Japan - Pistol\nUses bullets"
+			}
+			ArisakaType99: {
+				DisplayName: "Arisaka Type 99"
+				Tooltip: "Japan - Bolt-action rifle\nUses bullets"
+			}
+			Type97Sniper: {
+				DisplayName: "Type 97 Sniper Rifle"
+				Tooltip: "Japan - Bolt-action rifle\nBullets pierce 1 extra enemies\nRight click to zoom out\nUses bullets"
+			}
+			Type100SMG: {
+				DisplayName: "Type 100 SMG"
+				Tooltip: "Japan - Submachine gun\nUses bullets"
+			}
+			Type96LMG: {
+				DisplayName: "Type 96 LMG"
+				Tooltip: "Japan - Light machine gun\n33% chance not to consume ammo\nUses bullets"
+			}
+			Type92HMG: {
+				DisplayName: "Type 92 HMG"
+				Tooltip: "Japan - Machine gun\n33% chance not to consume ammo\nUses bullets"
+			}
+			ColtM1911: {
+				DisplayName: "Colt M1911"
+				Tooltip: "United States - Pistol\nUses bullets"
+			}
+			M1Garand: {
+				DisplayName: "M1 Garand"
+				Tooltip: "United States - Semi-automatic rifle\nUses bullets"
+			}
+			M1Carbine: {
+				DisplayName: "M1 Carbine"
+				Tooltip: "United States - Semi-automatic rifle\nUses bullets"
+			}
+			ThompsonM1928: {
+				DisplayName: "Thompson M1928"
+				Tooltip: "United States - Submachine gun\nUses bullets"
+			}
+			BrowningBAR: {
+				DisplayName: "Browning BAR"
+				Tooltip: "United States - Light machine gun\n20% chance not to consume ammo\nUses bullets"
+			}
+			M1897TrenchGun: {
+				DisplayName: "M1897 Trench Gun"
+				Tooltip: "United States - Pump-action shotgun\nFires 5 pellets\nUses bullets"
+			}
+			WebleyMkVI: {
+				DisplayName: "Webley Mk VI"
+				Tooltip: "United Kingdom - Pistol\nUses bullets"
+			}
+			LeeEnfieldNo4: {
+				DisplayName: "Lee-Enfield No. 4"
+				Tooltip: "United Kingdom - Bolt-action rifle\nUses bullets"
+			}
+			StenMkII: {
+				DisplayName: "Sten Mk II"
+				Tooltip: "United Kingdom - Submachine gun\nUses bullets"
+			}
+			Bren: {
+				DisplayName: "Bren Gun"
+				Tooltip: "United Kingdom - Light machine gun\n25% chance not to consume ammo\nUses bullets"
+			}
+			DeLisleCarbine: {
+				DisplayName: "De Lisle Carbine"
+				Tooltip: "United Kingdom - Bolt-action rifle\nIntegrated suppressor\nUses bullets"
+			}
+			BoysATRifle: {
+				DisplayName: "Boys Anti-Tank Rifle"
+				Tooltip: "United Kingdom - Anti-tank rifle\nBullets pierce 4 extra enemies\nUses bullets"
+			}
+			TokarevTT33: {
+				DisplayName: "Tokarev TT-33"
+				Tooltip: "Soviet Union - Pistol\nUses bullets"
+			}
+			MosinNagant: {
+				DisplayName: "Mosin-Nagant M91/30"
+				Tooltip: "Soviet Union - Bolt-action rifle\nUses bullets"
+			}
+			SVT40: {
+				DisplayName: "SVT-40"
+				Tooltip: "Soviet Union - Semi-automatic rifle\nUses bullets"
+			}
+			PPSh41: {
+				DisplayName: "PPSh-41"
+				Tooltip: "Soviet Union - Submachine gun\nUses bullets"
+			}
+			PPS43: {
+				DisplayName: "PPS-43"
+				Tooltip: "Soviet Union - Submachine gun\nUses bullets"
+			}
+			DP27: {
+				DisplayName: "DP-27"
+				Tooltip: "Soviet Union - Light machine gun\n25% chance not to consume ammo\nUses bullets"
+			}
+			MAS1935: {
+				DisplayName: "MAS 1935"
+				Tooltip: "France - Pistol\nUses bullets"
+			}
+			MAS36: {
+				DisplayName: "MAS-36"
+				Tooltip: "France - Bolt-action rifle\nUses bullets"
+			}
+			Lebel1886: {
+				DisplayName: "Lebel M1886"
+				Tooltip: "France - Bolt-action rifle\nUses bullets"
+			}
+			MAS38: {
+				DisplayName: "MAS-38"
+				Tooltip: "France - Submachine gun\nUses bullets"
+			}
+			FM2429: {
+				DisplayName: "FM 24/29"
+				Tooltip: "France - Light machine gun\n20% chance not to consume ammo\nUses bullets"
+			}
+			HotchkissM1914: {
+				DisplayName: "Hotchkiss M1914"
+				Tooltip: "France - Machine gun\n33% chance not to consume ammo\nUses bullets"
+			}
+		}
+
+		RecipeGroups: {
+			SilverBar: Any Silver Bar
+			EvilBar: Any Demonite or Crimtane Bar
+			CobaltBar: Any Cobalt Bar
+			MythrilBar: Any Mythril Bar
+			AdamantiteBar: Any Adamantite Bar
+		}
+	}
+}

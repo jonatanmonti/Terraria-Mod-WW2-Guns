@@ -1,0 +1,182 @@
+Mods: {
+	WW2Guns: {
+		Items: {
+			LugerP08: {
+				DisplayName: "Luger P08"
+				Tooltip: "Alemania - Pistola\nUsa balas"
+			}
+			MP40: {
+				DisplayName: "MP 40"
+				Tooltip: "Alemania - Subfusil\nUsa balas"
+			}
+			Kar98k: {
+				DisplayName: "Karabiner 98k"
+				Tooltip: "Alemania - Rifle de cerrojo\nUsa balas"
+			}
+			Gewehr43: {
+				DisplayName: "Gewehr 43"
+				Tooltip: "Alemania - Rifle semiautomático\nUsa balas"
+			}
+			StG44: {
+				DisplayName: "StG 44"
+				Tooltip: "Alemania - Fusil de asalto\nUsa balas"
+			}
+			MG42: {
+				DisplayName: "MG 42"
+				Tooltip: "Alemania - Ametralladora\n50% de probabilidad de no gastar munición\nUsa balas"
+			}
+			BerettaM1934: {
+				DisplayName: "Beretta M1934"
+				Tooltip: "Italia - Pistola\nUsa balas"
+			}
+			CarcanoM9138: {
+				DisplayName: "Carcano M91/38"
+				Tooltip: "Italia - Rifle de cerrojo\nUsa balas"
+			}
+			MAB38: {
+				DisplayName: "Beretta MAB 38"
+				Tooltip: "Italia - Subfusil\nUsa balas"
+			}
+			FNAB43: {
+				DisplayName: "FNAB-43"
+				Tooltip: "Italia - Subfusil\nUsa balas"
+			}
+			Breda30: {
+				DisplayName: "Breda 30"
+				Tooltip: "Italia - Ametralladora ligera\n25% de probabilidad de no gastar munición\nUsa balas"
+			}
+			BredaM37: {
+				DisplayName: "Breda M37"
+				Tooltip: "Italia - Ametralladora\n33% de probabilidad de no gastar munición\nUsa balas"
+			}
+			NambuType14: {
+				DisplayName: "Nambu Type 14"
+				Tooltip: "Japón - Pistola\nUsa balas"
+			}
+			ArisakaType99: {
+				DisplayName: "Arisaka Type 99"
+				Tooltip: "Japón - Rifle de cerrojo\nUsa balas"
+			}
+			Type97Sniper: {
+				DisplayName: "Type 97 Sniper Rifle"
+				Tooltip: "Japón - Rifle de cerrojo\nLas balas atraviesan 1 enemigo(s) extra\nClic derecho para hacer zoom\nUsa balas"
+			}
+			Type100SMG: {
+				DisplayName: "Type 100 SMG"
+				Tooltip: "Japón - Subfusil\nUsa balas"
+			}
+			Type96LMG: {
+				DisplayName: "Type 96 LMG"
+				Tooltip: "Japón - Ametralladora ligera\n33% de probabilidad de no gastar munición\nUsa balas"
+			}
+			Type92HMG: {
+				DisplayName: "Type 92 HMG"
+				Tooltip: "Japón - Ametralladora\n33% de probabilidad de no gastar munición\nUsa balas"
+			}
+			ColtM1911: {
+				DisplayName: "Colt M1911"
+				Tooltip: "Estados Unidos - Pistola\nUsa balas"
+			}
+			M1Garand: {
+				DisplayName: "M1 Garand"
+				Tooltip: "Estados Unidos - Rifle semiautomático\nUsa balas"
+			}
+			M1Carbine: {
+				DisplayName: "M1 Carbine"
+				Tooltip: "Estados Unidos - Rifle semiautomático\nUsa balas"
+			}
+			ThompsonM1928: {
+				DisplayName: "Thompson M1928"
+				Tooltip: "Estados Unidos - Subfusil\nUsa balas"
+			}
+			BrowningBAR: {
+				DisplayName: "Browning BAR"
+				Tooltip: "Estados Unidos - Ametralladora ligera\n20% de probabilidad de no gastar munición\nUsa balas"
+			}
+			M1897TrenchGun: {
+				DisplayName: "M1897 Trench Gun"
+				Tooltip: "Estados Unidos - Escopeta de corredera\nDispara 5 perdigones\nUsa balas"
+			}
+			WebleyMkVI: {
+				DisplayName: "Webley Mk VI"
+				Tooltip: "Reino Unido - Pistola\nUsa balas"
+			}
+			LeeEnfieldNo4: {
+				DisplayName: "Lee-Enfield No. 4"
+				Tooltip: "Reino Unido - Rifle de cerrojo\nUsa balas"
+			}
+			StenMkII: {
+				DisplayName: "Sten Mk II"
+				Tooltip: "Reino Unido - Subfusil\nUsa balas"
+			}
+			Bren: {
+				DisplayName: "Bren Gun"
+				Tooltip: "Reino Unido - Ametralladora ligera\n25% de probabilidad de no gastar munición\nUsa balas"
+			}
+			DeLisleCarbine: {
+				DisplayName: "De Lisle Carbine"
+				Tooltip: "Reino Unido - Rifle de cerrojo\nSilenciador integrado\nUsa balas"
+			}
+			BoysATRifle: {
+				DisplayName: "Boys Anti-Tank Rifle"
+				Tooltip: "Reino Unido - Fusil antitanque\nLas balas atraviesan 4 enemigo(s) extra\nUsa balas"
+			}
+			TokarevTT33: {
+				DisplayName: "Tokarev TT-33"
+				Tooltip: "Unión Soviética - Pistola\nUsa balas"
+			}
+			MosinNagant: {
+				DisplayName: "Mosin-Nagant M91/30"
+				Tooltip: "Unión Soviética - Rifle de cerrojo\nUsa balas"
+			}
+			SVT40: {
+				DisplayName: "SVT-40"
+				Tooltip: "Unión Soviética - Rifle semiautomático\nUsa balas"
+			}
+			PPSh41: {
+				DisplayName: "PPSh-41"
+				Tooltip: "Unión Soviética - Subfusil\nUsa balas"
+			}
+			PPS43: {
+				DisplayName: "PPS-43"
+				Tooltip: "Unión Soviética - Subfusil\nUsa balas"
+			}
+			DP27: {
+				DisplayName: "DP-27"
+				Tooltip: "Unión Soviética - Ametralladora ligera\n25% de probabilidad de no gastar munición\nUsa balas"
+			}
+			MAS1935: {
+				DisplayName: "MAS 1935"
+				Tooltip: "Francia - Pistola\nUsa balas"
+			}
+			MAS36: {
+				DisplayName: "MAS-36"
+				Tooltip: "Francia - Rifle de cerrojo\nUsa balas"
+			}
+			Lebel1886: {
+				DisplayName: "Lebel M1886"
+				Tooltip: "Francia - Rifle de cerrojo\nUsa balas"
+			}
+			MAS38: {
+				DisplayName: "MAS-38"
+				Tooltip: "Francia - Subfusil\nUsa balas"
+			}
+			FM2429: {
+				DisplayName: "FM 24/29"
+				Tooltip: "Francia - Ametralladora ligera\n20% de probabilidad de no gastar munición\nUsa balas"
+			}
+			HotchkissM1914: {
+				DisplayName: "Hotchkiss M1914"
+				Tooltip: "Francia - Ametralladora\n33% de probabilidad de no gastar munición\nUsa balas"
+			}
+		}
+
+		RecipeGroups: {
+			SilverBar: Cualquier lingote de plata
+			EvilBar: Cualquier lingote de demonita o carmesí
+			CobaltBar: Cualquier lingote de cobalto
+			MythrilBar: Cualquier lingote de mithril
+			AdamantiteBar: Cualquier lingote de adamantita
+		}
+	}
+}

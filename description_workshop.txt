@@ -1,0 +1,29 @@
+[h1]WW2 Guns[/h1]
+Adds [b]42 firearms from World War II[/b] to Terraria: 6 for each major nation of the Axis and the Allies.
+
+[h2]Nations[/h2]
+[list]
+[*][b]Germany[/b]: Luger P08, MP 40, Karabiner 98k, Gewehr 43, StG 44, MG 42
+[*][b]Italy[/b]: Beretta M1934, Carcano M91/38, Beretta MAB 38, FNAB-43, Breda 30, Breda M37
+[*][b]Japan[/b]: Nambu Type 14, Arisaka Type 99, Type 97 Sniper Rifle, Type 100 SMG, Type 96 LMG, Type 92 HMG
+[*][b]United States[/b]: Colt M1911, M1 Garand, M1 Carbine, Thompson M1928, Browning BAR, M1897 Trench Gun
+[*][b]United Kingdom[/b]: Webley Mk VI, Lee-Enfield No. 4, Sten Mk II, Bren Gun, De Lisle Carbine, Boys Anti-Tank Rifle
+[*][b]Soviet Union[/b]: Tokarev TT-33, Mosin-Nagant M91/30, SVT-40, PPSh-41, PPS-43, DP-27
+[*][b]France[/b]: MAS 1935, MAS-36, Lebel M1886, MAS-38, FM 24/29, Hotchkiss M1914
+[/list]
+
+[h2]How to get them[/h2]
+[list]
+[*][b]Crafting[/b]: every gun is craftable at an Anvil or Mythril Anvil. Pre-boss guns use iron and silver, later ones use demonite/crimtane, meteorite, hellstone and Hardmode bars, souls and Illegal Gun Parts.
+[*][b]Arms Dealer[/b]: sells all pistols, plus the Thompson and Trench Gun in Hardmode.
+[*][b]Drops[/b]: Skeleton Commando (Boys AT Rifle), Skeleton Sniper (Type 97), Tactical Skeleton (MG 42), Pirate Deadeye (Thompson).
+[/list]
+
+[h2]Features[/h2]
+[list]
+[*]Weapon classes with different feel: slow hard-hitting bolt-action rifles, fast inaccurate SMGs, ammo-saving machine guns, a 5-pellet shotgun, a scoped sniper and a piercing anti-tank rifle.
+[*]All guns use vanilla bullets.
+[*]English and Spanish translations.
+[/list]
+
+Source code: [url=https://github.com/jonatanmonti/Terraria-Mod-WW2-Guns]GitHub[/url]

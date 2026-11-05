@@ -1,0 +1,5 @@
+displayName = WW2 Guns
+author = jonatan
+version = 1.0.0
+homepage = https://github.com/jonatanmonti/Terraria-Mod-WW2-Guns
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, .gitignore, README.md, workshop\*, tools\*
