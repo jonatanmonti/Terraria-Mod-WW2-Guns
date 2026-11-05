@@ -96,3 +96,7 @@ python tools/art.py       # icon.png, icon_workshop.png e imágenes de workshop/
 ```
 
 Los dibujos de cada arma están en `tools/guns.py` y las estadísticas en `tools/stats.py`. También podés editar los `.png` a mano (Aseprite, Piskel, etc.), pero si volvés a correr `gen_mod.py` se sobrescriben.
+
+## Licencia
+
+Todos los derechos reservados. Ver [LICENSE](LICENSE).
